@@ -284,6 +284,7 @@
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 9SSYE6QZSP;
 				INFOPLIST_FILE = CollectionView/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -293,7 +294,7 @@
 				PROVISIONING_PROFILE = "31d8006f-ea60-4c59-aff3-2cee280a0b11";
 				PROVISIONING_PROFILE_SPECIFIER = WinjitDemoApps;
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -306,6 +307,7 @@
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 9SSYE6QZSP;
 				INFOPLIST_FILE = CollectionView/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -315,7 +317,7 @@
 				PROVISIONING_PROFILE = "31d8006f-ea60-4c59-aff3-2cee280a0b11";
 				PROVISIONING_PROFILE_SPECIFIER = WinjitDemoApps;
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
